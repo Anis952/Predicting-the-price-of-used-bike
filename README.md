@@ -1,2 +1,4 @@
 # Predictoing-the-price-of-used-bike
-This project is based my college project
+Algorithm:
+Deecison Tree
+Linear regression
